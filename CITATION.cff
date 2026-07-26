@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it and credit the Emergence Machine project."
+title: "Citizen Copilot: a portable civic-assistant specification"
+abstract: >-
+  A tooling-agnostic specification for a personal civic assistant: permanent
+  project instructions plus fifteen single-purpose weekly tasks that watch local
+  government, separate fact from opinion, prefer official sources, and trace the
+  chain of responsibility from an event to the office and law behind it. Runs
+  hosted (cloud project) or self-hosted (local model). Part of the Emergence
+  Machine project; sibling to My Citizen Atlas.
+type: software
+authors:
+  - name: "Citizen Copilot contributors"
+    website: "https://github.com/shaelsrv/citizen-copilot"
+repository-code: "https://github.com/shaelsrv/citizen-copilot"
+url: "https://emergencemachine.com"
+license: MIT
+license-url: "https://github.com/shaelsrv/citizen-copilot/blob/main/LICENSE-CODE"
+keywords:
+  - civic-tech
+  - accountability
+  - ai-assistant
+  - prompts
+  - local-government
+  - emergence-machine

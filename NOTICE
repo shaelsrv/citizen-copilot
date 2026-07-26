@@ -1,0 +1,33 @@
+Citizen Copilot
+Part of the Emergence Machine project — https://emergencemachine.com
+Source: https://github.com/shaelsrv/citizen-copilot
+Sibling: https://github.com/shaelsrv/mycitizenatlas (the map it reads)
+
+================================================================================
+Licensing
+================================================================================
+
+- Content (prompts/, tasks/, hosting/, README, CONTRIBUTING — the prose):
+  Creative Commons Attribution 4.0 International (CC-BY 4.0) — see LICENSE-CONTENT.
+- Code (the run_task.py runner and any scripts): MIT License — see LICENSE-CODE.
+
+Both are attribution-friendly and place no restriction on commercial or derivative
+use. Copy, fork, translate, and adapt freely.
+
+================================================================================
+Attribution we ask for (this is the CC-BY attribution, and the point of it)
+================================================================================
+
+When you use or adapt these prompts/specs, please credit:
+
+    Citizen Copilot, part of the Emergence Machine project
+    (https://emergencemachine.com)
+    https://github.com/shaelsrv/citizen-copilot
+
+A short attribution line is baked into the permanent instructions and each task,
+because prompts get pasted into assistants where a LICENSE file can't travel with
+them. Keeping that line is the practical way credit survives the copy — and it
+signals to others that your civic setup follows a documented methodology.
+
+If you publish work built on this, a citation (see CITATION.cff) is the most
+helpful form of attribution.

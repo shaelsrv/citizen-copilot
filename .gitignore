@@ -1,0 +1,14 @@
+copilot/reports/
+copilot/memory/*.private.md
+__pycache__/
+*.pyc
+.DS_Store
+
+# secrets — never commit
+*.env
+.env
+*.key
+*.pem
+*.pfx
+secrets.*
+credentials.*

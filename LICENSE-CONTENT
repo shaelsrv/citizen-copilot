@@ -1,0 +1,29 @@
+Citizen Copilot — content license (prompts, specs, guides, documentation)
+
+The prose in this repository — the permanent-instructions template (prompts/), the
+task specifications (tasks/), the hosting guides (hosting/), and the documentation
+(README, CONTRIBUTING) — is licensed under the Creative Commons Attribution 4.0
+International License (CC-BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+The example code (the run_task.py runner and any scripts) is licensed separately
+under the MIT License — see LICENSE-CODE.
+
+================================================================================
+REQUIRED ATTRIBUTION (how to give credit)
+================================================================================
+
+When you use, copy, translate, or adapt these prompts/specs, credit:
+
+    "Citizen Copilot, part of the Emergence Machine project
+     (https://emergencemachine.com)
+     https://github.com/shaelsrv/citizen-copilot"
+
+CC-BY only requires that you attribute — this line is the attribution we ask for.
+Because these prompts are meant to be copied into an AI assistant where a license
+file can't follow them, a short attribution line is also baked into the permanent
+instructions and each task; please keep it. It costs nothing, it lends your setup
+credibility (this is a real, documented methodology), and it routes discovery back
+to the project so others can find and build on it.
+
+See NOTICE for full guidance and CITATION.cff for a machine-readable citation.
