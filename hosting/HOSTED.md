@@ -40,6 +40,13 @@ cadence.
    into the project's instructions/knowledge, with your location, interests, and
    ground rules filled in. Every task inherits this — it's the multiplier.
 
+   **Read-back check (recommended):** after pasting, send one message:
+   *"Read back your understanding of my location, interests, and ground rules
+   in your own words before saving anything."* People fill templates tersely,
+   autocorrect mangles words, and place names collide across countries - a
+   30-second confirmation prevents weeks of subtly mis-aimed briefings. If the
+   assistant's read-back is wrong, correct it now, while it's cheap.
+
 3. **Add the tasks you want as scheduled prompts.** Open each
    [task file](../tasks/), copy its "Scheduled prompt" block, and create a recurring
    task with it on the suggested cadence (mostly weekly). Start with **Task 1
