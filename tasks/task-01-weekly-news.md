@@ -20,6 +20,10 @@ Give me this week's local government activity for my area. Cover:
 - public meetings held
 Weight toward my stated interests. Separate fact from interpretation. Cite a
 source for each item. Keep it to the ~10 most significant items.
+RECENCY GUARD: date-stamp every item. Include only items from the past 7-10
+days. Web search often surfaces older stories that look current - if an item
+is older or undated, either drop it or label it clearly ("[from <month>]" /
+"[undated - verify]"). Never present old news as this week's news.
 ```
 
 ---

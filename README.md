@@ -57,7 +57,15 @@ notes (Task 5) that you never want to leave your machine.
 
 ---
 
-## What you get, in 15 minutes
+## Fastest path: the guided installer (no GitHub needed)
+
+Inside a chat assistant there's no GitHub to clone the repo or reference its files, so
+the quickest way in is a **one-prompt guided installer** — paste it into a new Project
+(ChatGPT/Claude) or Gem (Gemini) and it interviews you, writes tailored project
+instructions, and prepares the briefings you approve, each as a **self-contained**
+prompt. → **[INSTALL.md](INSTALL.md)** (uses [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP_PROMPT.md)).
+
+## Or set it up by hand, in 15 minutes
 
 1. Copy [`prompts/PERMANENT_INSTRUCTIONS.md`](prompts/PERMANENT_INSTRUCTIONS.md)
    into your assistant's project memory / system prompt, and fill in your
@@ -98,6 +106,8 @@ it into an institutional historian for your town.
 ## Repository layout
 
 ```
+INSTALL.md                    # fastest path — guided installer (no GitHub needed)
+BOOTSTRAP_PROMPT.md           # the one prompt the installer pastes in
 prompts/
   PERMANENT_INSTRUCTIONS.md   # project memory template — fill in and paste once
 tasks/
