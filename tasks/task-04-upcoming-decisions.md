@@ -10,17 +10,21 @@
 
 ```text
 # Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
-List decisions COMING UP in my area that I could still influence or attend,
-with dates. Include:
+List decisions COMING UP that I could still influence or attend, with dates,
+across ALL levels — local, state/province, and national/federal. Include:
 - next city/county council meetings (agenda highlights if published)
 - upcoming zoning or land-use votes
-- proposed new regulations open for comment
-- public consultations / hearings
-- budget hearings
+- proposed new regulations open for comment (local, state, OR national)
+- public consultations / hearings — including state and national ones open to
+  the public that touch my locality or interests
+- budget hearings (municipal, state, and national)
 - planning commission items
-For each: what it is, the date, where it happens, and how a resident can
-participate (comment link, sign-up, or "show up"). Prefer official meeting
-calendars and agendas.
+- relevant state legislature / national parliament bills or sessions where public
+  input, testimony, or a comment window is open
+For each: what it is, its level (local / state / national), the date, where it
+happens, and how a resident can participate (comment link, sign-up, testify, or
+"show up") — plus the deadline. Prefer official calendars and agendas. Never
+present a past or closed opportunity as upcoming.
 ```
 
 ---
