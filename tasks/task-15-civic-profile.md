@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Periodically, from my engagement over time (what I read, note, and ask about),
 maintain a private profile of what I prioritize. Example:
 ```

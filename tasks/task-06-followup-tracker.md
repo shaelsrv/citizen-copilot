@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Track the AFTERMATH of past events I've seen. Each week, revisit items that
 had a "next step" and report what actually happened since. Example arc:
 ```

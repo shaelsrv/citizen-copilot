@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Don't just tell me what happened — tell me what's CHANGING. For each of my
 interest areas (and these where data exists: housing, crime, water quality,
 traffic, homelessness, school performance, budget deficit, population, business

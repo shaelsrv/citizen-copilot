@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 End the weekly briefing with a short "Things worth watching" list — open,
 neutral questions raised by the week's events. Phrase them as curiosity, not
 accusations. Examples:

@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Track genuinely POSITIVE local developments this week (without spin — only
 real, sourced wins):
 - projects completed on time / under budget

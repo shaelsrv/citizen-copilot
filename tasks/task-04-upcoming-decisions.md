@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 List decisions COMING UP that I could still influence or attend, with dates,
 across ALL levels — local, state/province, and national/federal. Include:
 - next city/county council meetings (agenda highlights if published)
