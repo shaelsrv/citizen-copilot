@@ -13,6 +13,17 @@ instead? See [`hosting/HOSTED.md`](hosting/HOSTED.md).)
 
 Citizen Copilot is part of the Emergence Machine project. Original repository: https://github.com/shaelsrv/citizen-copilot
 
+## Is it safe to paste a big prompt? (yes — here's why)
+
+A long instruction prompt can look like a prompt-injection attempt. This installer is designed to be the opposite: it follows a **Review → Explain → Confirm → Apply** workflow and **never assumes permission to change behavior**.
+
+- When you paste it, it should **explain itself first** and **ask before doing anything** — not silently reconfigure your assistant.
+- It only affects **this Project/Gem**, not your global assistant settings.
+- It won't ask for a street address or sensitive personal data, won't send your data anywhere, and creates **no recurring task** until you approve the exact list shown.
+- You can inspect and edit everything it produces, choose a Minimal / Recommended / Full setup, and say `cancel` at any time.
+
+If the assistant instead tries to act without confirming, or asks for sensitive data, stop — that's not how this installer is meant to behave.
+
 ## What you need
 
 - An assistant account with **Projects** (ChatGPT / Claude) or **Gems** (Gemini).

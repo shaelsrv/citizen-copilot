@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 After this week's briefing, ask me: "Did you want to record an opinion or note
 on any of these items?" Store whatever I say as PRIVATE notes tied to the item and
 the date. Never share these, never use them to persuade me, never surface them in

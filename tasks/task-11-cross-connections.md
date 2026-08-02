@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Don't treat events independently — connect them into causal chains. Where the
 evidence supports it, draw the links. Example:
 ```

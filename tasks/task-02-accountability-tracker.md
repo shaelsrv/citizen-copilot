@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Maintain a running ledger of public promises by officials and institutions in
 my area (campaign promises, stated commitments, funded pledges). This week, update
 each open promise and add any new ones. For each, use exactly this format:

@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Instead of top headlines, surface issues that are QUIETLY deteriorating before
 they become crises. Look for early signals like:
 - water loss / leakage rates rising

@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Give me this week's government activity that affects my area, across ALL levels —
 local (city/county), state/province, and national/federal. Cover:
 - major news involving my city / county / state / national government

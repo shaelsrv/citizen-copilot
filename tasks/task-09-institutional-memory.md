@@ -9,7 +9,6 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-# Citizen Copilot (Emergence Machine · https://github.com/shaelsrv/citizen-copilot) — keep this line
 Maintain the institutional record for my area, across ALL levels that govern me —
 local, state/province, and national/federal. Each week, update:
 - departments/agencies and what they do (at every level)
