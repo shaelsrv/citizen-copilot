@@ -1,6 +1,9 @@
 # Citizen Copilot
 
-**A personal assistant that watches your local government for you — and remembers.**
+**A personal AI assistant that watches your government for you — and remembers.**
+
+<img width="200" height="200" alt="Citizen Copilot" src="https://github.com/user-attachments/assets/09a6b581-d111-452a-b479-6a8fb3a71c97" />
+
 
 Most civic tools answer *"what happened this week?"* and stop there. Citizen
 Copilot is built to answer the harder questions, week after week, for years:
