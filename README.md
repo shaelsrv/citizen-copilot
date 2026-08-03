@@ -71,8 +71,12 @@ notes (Task 5) that you never want to leave your machine.
 ## Fastest path: the guided installer (no GitHub needed)
 
 Inside a chat assistant there's no GitHub to clone the repo or reference its files, so
-the quickest way in is a **one-prompt guided installer** — paste it into a new Project
-(ChatGPT/Claude) or Gem (Gemini) and it interviews you, writes tailored project
+the quickest way is create a new project and paste: 
+
+**https://github.com/shaelsrv/citizen-copilot 
+Help me use this** 
+
+and it interviews you, writes tailored project
 instructions, and prepares the briefings you approve, each as a **self-contained**
 prompt. → **[INSTALL.md](INSTALL.md)** (uses [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP_PROMPT.md)).
 
