@@ -79,8 +79,9 @@ prompt. → **[INSTALL.md](INSTALL.md)** (uses [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP
    into your assistant's project memory / system prompt, and fill in your
    location, interests, and values.
 2. Set up one or more of the [16 weekly tasks](tasks/). Start with **Task 1
-   (Weekly News)**, **Task 4 (Upcoming Decisions)**, and **Task 10 (Why This
-   Matters)** — the highest-value trio for a new user.
+   (Weekly News)**, **Task 4 (Upcoming Decisions)**, **Task 10 (Why This
+   Matters)**, and **Task 16 (Economy Watch)** — the highest-value set for a
+   new user.
 3. Run them on a cadence (weekly is the default):
    - **If your assistant can schedule** (some ChatGPT plans): create a recurring
      task from each prompt.

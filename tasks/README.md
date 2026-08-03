@@ -5,7 +5,7 @@ run the ones that matter to you. Each file in this folder is a ready-to-paste
 prompt; the permanent instructions ([`../prompts/PERMANENT_INSTRUCTIONS.md`](../prompts/PERMANENT_INSTRUCTIONS.md))
 supply your location, interests, and rules, so the task prompts stay short.
 
-**Start here (highest value for a new user):** Task 1, Task 4, Task 10.
+**Start here (highest value for a new user):** Task 1, Task 4, Task 10, and Task 16 (Economy Watch).
 
 | # | Task | Answers | Suggested cadence |
 |---|---|---|---|

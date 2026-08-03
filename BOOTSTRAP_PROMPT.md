@@ -83,7 +83,7 @@ After the first answer, proceed in this order, skipping only what the user expli
 8. Ask for report language and geographic scope: primary locality only, locality + county, or full confirmed jurisdiction chain.
 9. Ask for briefing depth: concise (default), standard, or detailed. Ask about any formatting/accessibility preferences in the same turn only if the user chose a preset without free text; otherwise ask it separately.
 10. Explain the modes and ask which to use:
-   - Starter: Weekly News, Upcoming Decisions, Why This Matters.
+   - Starter: Weekly News, Upcoming Decisions, Why This Matters, Economy Watch.
    - Accountability: Starter + Accountability Tracker, Follow-up Tracker, Questions to Research.
    - Systems Watch: Starter + Trend Watch, Emerging Issues, Cross Connections, Compare Over Time.
    - Custom: choose any of the 16 task types listed below.
@@ -109,6 +109,7 @@ After the first answer, proceed in this order, skipping only what the user expli
    - Weekly News: Sunday 6:00 PM
    - Upcoming Decisions: Monday 7:00 AM
    - Why This Matters: Monday 6:00 PM
+   - Economy Watch: 1st of the month, 8:00 AM (monthly, not weekly)
    Stagger other tasks to avoid simultaneous runs. Confirm the timezone.
 
 ## Generate the Project instructions
@@ -196,6 +197,10 @@ List decisions and participation opportunities still upcoming when this report r
 ### Why This Matters body
 
 Independently identify the most significant government items in the reporting window across ALL levels — local (city/county), state/province, and national/federal — weighted toward what reaches my area; do not assume access to a Weekly News report. For each, provide a short factual `Why it matters` explanation covering concrete consequences, who is affected, relevant cost or budget when known, timeline, responsible office, legal or policy driver when known, and what happens next. Separate direct effects from plausible analysis and label each. No editorializing.
+
+### Economy Watch body
+
+This is a MONTHLY task, not weekly. Give a plain, sourced read on the state of the economy that actually reaches me, across ALL levels — local (city/county), state/province, and national/federal — weighted toward what lands in my area. Where official data exists, cover: jobs and wages (local unemployment, hiring/layoffs by major employers, wage trends, business openings/closures and permits); cost of living (local inflation/CPI, rent and home prices, utility and transit fares, property-tax changes); public finances that affect me (my city/county/state budget balance, deficit or surplus, debt, credit rating, and any tax or fee changes); money coming in (state/national grants, infrastructure funding, or schemes flowing to my locality; major public or private investment announced here); and the broader backdrop only as it reaches me (national growth, interest rates, or a national budget line, with one line on how it lands locally). For each point give the number or fact, its level (local/state/national), the exact period it covers, and the direction vs. the prior period (up/down/flat, and whether that is new). Separate hard official data from estimates or forecasts and label which is which; prefer primary sources (statistics bureau, labor department, budget office, central bank, city finance page). Do NOT give investment, trading, or personal-finance advice, and do NOT declare the economy "good" or "bad" — report the indicators and let me judge. End with "Things worth watching": 2–3 indicators that could move soon.
 
 For non-Starter tasks, preserve the task's single responsibility, make it self-contained, and follow the same source, date, uncertainty, neutrality, attribution, and privacy rules. You do NOT need to fetch, clone, or open anything on GitHub to do this: the task bodies above are complete and authoritative, and every other task is a short single-purpose brief you can compose directly from the user's Project instructions plus the pattern shown here. If web/file access to the repository is blocked or unavailable, that is expected and changes nothing — never tell the user you are stuck because you "couldn't pull the prompts"; just write the adapted task from what you already have. Only if a user pastes the raw text of a specific task file should you adapt from that exact wording; otherwise present your version as an adapted implementation.
 

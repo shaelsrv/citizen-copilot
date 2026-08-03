@@ -51,12 +51,13 @@ Choose **Starter** during the interview:
 | Weekly News | Sunday, 6:00 PM | What happened? |
 | Upcoming Decisions | Monday, 7:00 AM | What can I still influence or attend? |
 | Why This Matters | Monday, 6:00 PM | What are the concrete consequences? |
+| Economy Watch | 1st of the month, 8:00 AM | How is the economy I live in doing? |
 
 The installer confirms your timezone and lets you change every day and time.
 
 ## Installation modes
 
-- **Starter:** Tasks 1, 4, and 10 from the original methodology.
+- **Starter:** Tasks 1, 4, 10, and 16 (Economy Watch) from the original methodology.
 - **Accountability:** Starter plus open promises, follow-ups, and questions worth researching.
 - **Systems Watch:** Starter plus trends, emerging issues, connections, and comparisons over time.
 - **Custom:** Choose from all 16 Citizen Copilot task types.
