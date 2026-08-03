@@ -1,6 +1,6 @@
-# The 16 tasks
+# The 17 tasks
 
-Each task is a **single-responsibility scheduled prompt**. You don't need all 16 —
+Each task is a **single-responsibility scheduled prompt**. You don't need all 17 —
 run the ones that matter to you. Each file in this folder is a ready-to-paste
 prompt; the permanent instructions ([`../prompts/PERMANENT_INSTRUCTIONS.md`](../prompts/PERMANENT_INSTRUCTIONS.md))
 supply your location, interests, and rules, so the task prompts stay short.
@@ -25,13 +25,15 @@ supply your location, interests, and rules, so the task prompts stay short.
 | 14 | [Compare Over Time](task-14-compare-over-time.md) | "How does now compare to before?" | monthly |
 | 15 | [Personal Civic Profile](task-15-civic-profile.md) | "What do I actually prioritize?" | quarterly |
 | 16 | [Economy Watch](task-16-economy-watch.md) | "How is the economy I live in doing?" | monthly |
+| 17 | [Subsidy & Incentive Tracker](task-17-subsidy-incentive-tracker.md) | "What public money could reach me — and who's getting it?" | monthly |
 
 ## How they fit together
 
 - Tasks **1, 4, 8, 9** are the *observation* layer — what happened, what's coming,
   what's going right, who's in charge.
-- Tasks **2, 6, 10, 13** are the *accountability* layer — open promises, follow-ups,
-  why it matters, what to question.
+- Tasks **2, 6, 10, 13, 17** are the *accountability* layer — open promises,
+  follow-ups, why it matters, what to question, and where public money and
+  incentives actually go.
 - Tasks **3, 7, 11, 14, 16** are the *systems* layer — trends, emerging drift,
   cross-connections, comparison over time, and the economy you live in. This is
   where slow change gets caught.
