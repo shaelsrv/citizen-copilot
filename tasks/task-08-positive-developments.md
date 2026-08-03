@@ -9,16 +9,19 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-Track genuinely POSITIVE local developments this week (without spin — only
-real, sourced wins):
-- projects completed on time / under budget
+Track genuinely POSITIVE developments this week (without spin — only real,
+sourced wins) across ALL levels that govern me — local, state/province, and
+national/federal — weighted toward what actually reaches my locality:
+- projects completed on time / under budget (municipal, state, or national)
 - budget savings
 - measurable crime reductions
 - new parks / green space
 - improved public services
 - clean/successful audits
 - infrastructure completed
-Cite the source. If a "win" is disputed or preliminary, say so.
+Tag each win's level (local / state / national); when it originates above local,
+note briefly how it reaches me. Cite the source. If a "win" is disputed or
+preliminary, say so.
 ```
 
 ---

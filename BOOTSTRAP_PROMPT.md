@@ -194,9 +194,9 @@ List decisions and participation opportunities still upcoming when this report r
 
 ### Why This Matters body
 
-Independently identify the most significant local-government items in the reporting window; do not assume access to a Weekly News report. For each, provide a short factual `Why it matters` explanation covering concrete consequences, who is affected, relevant cost or budget when known, timeline, responsible office, legal or policy driver when known, and what happens next. Separate direct effects from plausible analysis and label each. No editorializing.
+Independently identify the most significant government items in the reporting window across ALL levels — local (city/county), state/province, and national/federal — weighted toward what reaches my area; do not assume access to a Weekly News report. For each, provide a short factual `Why it matters` explanation covering concrete consequences, who is affected, relevant cost or budget when known, timeline, responsible office, legal or policy driver when known, and what happens next. Separate direct effects from plausible analysis and label each. No editorializing.
 
-For non-Starter tasks, preserve the task's single responsibility, make it self-contained, and follow the same source, date, uncertainty, neutrality, attribution, and privacy rules. Do not fabricate task content from an unseen repository file; if exact upstream wording is needed but unavailable, say the prompt is an adapted implementation.
+For non-Starter tasks, preserve the task's single responsibility, make it self-contained, and follow the same source, date, uncertainty, neutrality, attribution, and privacy rules. You do NOT need to fetch, clone, or open anything on GitHub to do this: the task bodies above are complete and authoritative, and every other task is a short single-purpose brief you can compose directly from the user's Project instructions plus the pattern shown here. If web/file access to the repository is blocked or unavailable, that is expected and changes nothing — never tell the user you are stuck because you "couldn't pull the prompts"; just write the adapted task from what you already have. Only if a user pastes the raw text of a specific task file should you adapt from that exact wording; otherwise present your version as an adapted implementation.
 
 ## Approval and installation
 

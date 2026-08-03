@@ -9,9 +9,11 @@
 ## Scheduled prompt (paste this as the task)
 
 ```text
-Maintain a running ledger of public promises by officials and institutions in
-my area (campaign promises, stated commitments, funded pledges). This week, update
-each open promise and add any new ones. For each, use exactly this format:
+Maintain a running ledger of public promises by officials and institutions that
+govern me, across ALL levels — local, state/province, and national/federal
+(campaign promises, stated commitments, funded pledges) — weighted toward those
+that reach my locality or interests. This week, update each open promise and add
+any new ones. Tag each promise's level. For each, use exactly this format:
 ```
 
 ## Output format
