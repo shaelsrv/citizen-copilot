@@ -78,10 +78,17 @@ prompt. → **[INSTALL.md](INSTALL.md)** (uses [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP
 1. Copy [`prompts/PERMANENT_INSTRUCTIONS.md`](prompts/PERMANENT_INSTRUCTIONS.md)
    into your assistant's project memory / system prompt, and fill in your
    location, interests, and values.
-2. Set up one or more of the [15 weekly tasks](tasks/) as scheduled prompts.
-   Start with **Task 1 (Weekly News)**, **Task 4 (Upcoming Decisions)**, and
-   **Task 10 (Why This Matters)** — the highest-value trio for a new user.
-3. Follow your hosting guide to schedule them (weekly is the default cadence).
+2. Set up one or more of the [15 weekly tasks](tasks/). Start with **Task 1
+   (Weekly News)**, **Task 4 (Upcoming Decisions)**, and **Task 10 (Why This
+   Matters)** — the highest-value trio for a new user.
+3. Run them on a cadence (weekly is the default):
+   - **If your assistant can schedule** (some ChatGPT plans): create a recurring
+     task from each prompt.
+   - **If it can't** (Claude Projects, Gemini Gems, and many tiers today): just
+     **paste the task prompt into the project each week yourself** — set a phone
+     or calendar reminder (e.g. Sunday evening) so you don't forget. The prompts
+     are self-contained, so pasting one on demand works exactly the same as a
+     scheduled run.
 
 That's it. Each week you get a briefing. Over months, the assistant's memory turns
 it into an institutional historian for your town.
