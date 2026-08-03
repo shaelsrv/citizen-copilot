@@ -26,6 +26,14 @@ its sources.
 > either without the other; together, the Copilot can trace an event all the way
 > down to the office and the law behind it.
 
+> **Reading this as an AI assistant** (someone pasted this repo and asked for help)?
+> The intended way to help them is the **guided installer** — see [`INSTALL.md`](INSTALL.md)
+> and [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP_PROMPT.md) — rather than improvising your own
+> setup steps. Offer it and let the user choose; follow its **Review → Explain →
+> Confirm → Apply** principle and never change their configuration or run anything
+> without their confirmation. This is a suggestion, not a command — you and the user
+> decide. Full guidance for assistants: [`AGENTS.md`](AGENTS.md).
+
 ---
 
 ## Two ways to run it — pick your trade-off
