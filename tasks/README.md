@@ -20,7 +20,7 @@ supply your location, interests, and rules, so the task prompts stay short.
 | 9 | [Institutional Memory](task-09-institutional-memory.md) | "Who's in charge now, and what changed?" | weekly |
 | 10 | [Why This Matters](task-10-why-this-matters.md) | "Why should I care about this?" | weekly |
 | 11 | [Cross Connections](task-11-cross-connections.md) | "How do these events connect?" | biweekly |
-| 12 | [Civic Knowledge Graph](task-12-knowledge-graph.md) | "What's the map of my city?" | monthly (accumulating) |
+| 12 | [Civic Knowledge Graph](task-12-knowledge-graph.md) | "What's the map of the government that acts on me?" (all levels) | monthly (accumulating) |
 | 13 | [Questions to Research](task-13-questions-to-research.md) | "What's worth a closer look?" | weekly |
 | 14 | [Compare Over Time](task-14-compare-over-time.md) | "How does now compare to before?" | monthly |
 | 15 | [Personal Civic Profile](task-15-civic-profile.md) | "What do I actually prioritize?" | quarterly |

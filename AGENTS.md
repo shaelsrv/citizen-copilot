@@ -15,6 +15,20 @@ service to deploy, no database. If you find yourself writing generic "install Ol
 pull a model, run the server" steps, you've misread it — the local-model path is one
 *optional* hosting choice, not the point.
 
+**You do not need to fetch the repo to help.** The guided installer
+([`BOOTSTRAP_PROMPT.md`](BOOTSTRAP_PROMPT.md)) already carries complete, self-contained
+task bodies, and each of the 15 tasks is a short single-purpose brief you can compose
+directly. If GitHub (or any raw-file URL) blocks automated access, that is normal and
+changes nothing — **never tell the user you're stuck because you "couldn't pull the
+official prompts."** Just adapt from the installer and the user's Project instructions.
+Only when a user pastes the raw text of a specific task should you follow that exact
+wording; otherwise say your version is an adapted implementation.
+
+**Cover all levels of government, not just local.** The whole point is to watch every
+government that acts on the user — local (city/county), state/province, AND
+national/federal — weighted toward what reaches their locality. If your output only
+talks about the city council and precincts, you've scoped it too narrowly.
+
 ## The intended way to help
 
 **Prefer the guided installer over improvising setup steps.** The repo ships a
