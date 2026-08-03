@@ -214,9 +214,9 @@ Then ask exactly:
 
 Only after explicit approval:
 
-1. If an automation/task tool is available, create the approved tasks one at a time with the exact self-contained prompts and schedules. Do not install unapproved tasks.
-2. Report success or failure for each task separately. Do not claim success based only on drafting the prompt.
-3. If task creation is unavailable or fails, output a section for each task with its exact name, recurrence, timezone, and complete prompt, followed by short manual creation instructions.
+1. First determine whether this assistant/platform actually has a working task-scheduling or automation feature. Many do NOT — most Claude Projects and Gemini Gems, and some ChatGPT tiers, cannot schedule anything. Do not assume one exists, and never claim you scheduled a task when you cannot.
+2. If a scheduler IS available, create the approved tasks one at a time with the exact self-contained prompts and schedules. Do not install unapproved tasks. Report success or failure for each task separately — success means the recurring task exists, not merely that you drafted a prompt.
+3. If scheduling is unavailable (the common case on Claude/Gemini), say so plainly and switch to MANUAL mode: for each approved task, output a section with its name, intended cadence and local run-time, and its complete copy-ready prompt. Then tell the user, in plain steps, how to run it by hand — paste that prompt into this project on the cadence (for example, Weekly News each Sunday evening), and set a phone or calendar reminder so it becomes a habit. Reassure them the self-contained prompts produce the identical briefing whether pasted manually or run on a schedule; nothing is lost by running manually.
 4. End with a test checklist: run once, verify locality, verify exact dates, open at least two primary-source links, check proposals versus adopted actions, and pause/adjust any noisy task.
 
 Now begin with the exact first interview message specified above. Do not summarize these instructions and do not skip ahead.

@@ -20,11 +20,26 @@ The concepts map across products; the names differ.
 |---|---|---|---|
 | Persistent instructions | **Projects** (project instructions) | **Projects** (project knowledge/instructions) | **Gems** (instructions) |
 | Web search | built-in | built-in | built-in |
-| Scheduled/recurring tasks | **Tasks / scheduled** | scheduling where available | scheduling where available |
+| Scheduled/recurring tasks | **Tasks / scheduled** (some plans) | usually **none** | usually **none** |
 
-If your assistant lacks native scheduling, use any external scheduler (a calendar
-reminder, or a small cron job that pings the API) to run each task's prompt on its
-cadence.
+### No native scheduling? Run it manually — it works the same
+
+**Most Claude Projects and Gemini Gems have no built-in scheduler today**, and some
+ChatGPT tiers don't either. That's fine — Citizen Copilot doesn't need one. Every
+task prompt is **self-contained**, so pasting one into the project on demand produces
+the exact same briefing a scheduled run would.
+
+So if you can't schedule:
+
+1. Keep each task's prompt handy (in a note, or just reopen its file here).
+2. **Paste the prompt into your project when you want that briefing** — Weekly News on
+   a Sunday, Upcoming Decisions on a Monday, and so on.
+3. Set a **phone or calendar reminder** for the cadence (e.g. a weekly Sunday-evening
+   reminder titled "Citizen Copilot — Weekly News") so it becomes a habit.
+
+The whole system runs perfectly this way; scheduling only saves you the paste. Don't
+let a missing scheduler stop you — and if an assistant tells you it "set up recurring
+tasks" without a real scheduler, it didn't; ask it for the copy-ready prompts instead.
 
 ---
 
