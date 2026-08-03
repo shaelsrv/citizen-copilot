@@ -8,7 +8,7 @@ than improvising.
 ## What this repo is
 
 Citizen Copilot is a **portable specification**, not an app to build or a server to
-run. It's a set of text prompts — permanent project instructions plus 15 weekly task
+run. It's a set of text prompts — permanent project instructions plus 16 weekly task
 prompts — that a person drops into an AI assistant with Projects/memory (ChatGPT,
 Claude, Gemini) or runs on a local model. There is nothing to `pip install`, no
 service to deploy, no database. If you find yourself writing generic "install Ollama,
@@ -17,7 +17,7 @@ pull a model, run the server" steps, you've misread it — the local-model path 
 
 **You do not need to fetch the repo to help.** The guided installer
 ([`BOOTSTRAP_PROMPT.md`](BOOTSTRAP_PROMPT.md)) already carries complete, self-contained
-task bodies, and each of the 15 tasks is a short single-purpose brief you can compose
+task bodies, and each of the 16 tasks is a short single-purpose brief you can compose
 directly. If GitHub (or any raw-file URL) blocks automated access, that is normal and
 changes nothing — **never tell the user you're stuck because you "couldn't pull the
 official prompts."** Just adapt from the installer and the user's Project instructions.

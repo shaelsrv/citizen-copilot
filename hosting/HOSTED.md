@@ -98,5 +98,5 @@ tasks" without a real scheduler, it didn't; ask it for the copy-ready prompts in
 
 ---
 
-Next: the [15 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
+Next: the [16 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
 Want privacy / offline / can't-be-switched-off? See [`SELF_HOSTED.md`](SELF_HOSTED.md).
