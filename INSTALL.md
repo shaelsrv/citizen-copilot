@@ -60,7 +60,7 @@ The installer confirms your timezone and lets you change every day and time.
 - **Starter:** Tasks 1, 4, 10, and 16 (Economy Watch) from the original methodology.
 - **Accountability:** Starter plus open promises, follow-ups, and questions worth researching.
 - **Systems Watch:** Starter plus trends, emerging issues, connections, and comparisons over time.
-- **Custom:** Choose from all 16 Citizen Copilot task types.
+- **Custom:** Choose from all 17 Citizen Copilot task types.
 
 Start with Starter. Add tasks only after the first two or three reports are useful; this keeps noise and active-task usage under control.
 
@@ -94,7 +94,7 @@ The installer's interview mirrors the hand-setup files — it just does the asse
 for you and bakes everything into self-contained prompts:
 
 - `prompts/PERMANENT_INSTRUCTIONS.md` — the project-memory template the interview fills.
-- `tasks/` — the 16 task specifications; the installer adapts the ones you pick.
+- `tasks/` — the 17 task specifications; the installer adapts the ones you pick.
 - `hosting/HOSTED.md` / `hosting/SELF_HOSTED.md` — the manual (cloud / local-model) paths.
 
 Sibling project: **[My Citizen Atlas](https://github.com/shaelsrv/mycitizenatlas)** — the

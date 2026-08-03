@@ -13,7 +13,7 @@ Copilot is built to answer the harder questions, week after week, for years:
 - **How has this changed over the last decade?**
 
 It's not an app you have to build. It's a **portable specification** — a set of
-permanent instructions plus sixteen single-purpose weekly tasks — that you drop
+permanent instructions plus seventeen single-purpose weekly tasks — that you drop
 into an AI assistant that supports **projects/memory + scheduled tasks**. The
 assistant becomes *your* civic analyst: it knows your city, your interests, and
 your values, and it turns the firehose of government activity into a small,
@@ -78,7 +78,7 @@ prompt. → **[INSTALL.md](INSTALL.md)** (uses [`BOOTSTRAP_PROMPT.md`](BOOTSTRAP
 1. Copy [`prompts/PERMANENT_INSTRUCTIONS.md`](prompts/PERMANENT_INSTRUCTIONS.md)
    into your assistant's project memory / system prompt, and fill in your
    location, interests, and values.
-2. Set up one or more of the [16 weekly tasks](tasks/). Start with **Task 1
+2. Set up one or more of the [17 weekly tasks](tasks/). Start with **Task 1
    (Weekly News)**, **Task 4 (Upcoming Decisions)**, **Task 10 (Why This
    Matters)**, and **Task 16 (Economy Watch)** — the highest-value set for a
    new user.
@@ -98,7 +98,7 @@ it into an institutional historian for your town.
 
 ## The design principles (why it's built this way)
 
-- **One task, one job.** Instead of one giant prompt, sixteen small ones. Each is
+- **One task, one job.** Instead of one giant prompt, seventeen small ones. Each is
   legible, tunable, and fails independently. You run only the ones you care about.
 - **Memory is the multiplier.** The permanent instructions (your location,
   interests, values, the agencies you follow) make *every* task sharper. This is
@@ -127,8 +127,8 @@ BOOTSTRAP_PROMPT.md           # the one prompt the installer pastes in
 prompts/
   PERMANENT_INSTRUCTIONS.md   # project memory template — fill in and paste once
 tasks/
-  README.md                   # the 16 tasks, what each answers, suggested cadence
-  task-01-weekly-news.md … task-16-economy-watch.md
+  README.md                   # the 17 tasks, what each answers, suggested cadence
+  task-01-weekly-news.md … task-17-subsidy-incentive-tracker.md
 hosting/
   HOSTED.md                   # set it up as a cloud project (ChatGPT/Claude/Gemini)
   SELF_HOSTED.md              # run it on a local model (Ollama), private + offline

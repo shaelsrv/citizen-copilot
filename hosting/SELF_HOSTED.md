@@ -62,7 +62,7 @@ copilot/
     trends.md          # Task 3/14 series
     notes.private.md   # Task 5 — never leaves your disk
     graph.md           # Task 12 knowledge graph
-  tasks/               # the 16 prompts
+  tasks/               # the 17 prompts
   reports/             # dated outputs
 ```
 
@@ -141,5 +141,5 @@ any unsourced claim as unconfirmed.
 
 ---
 
-Next: the [16 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
+Next: the [17 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
 Prefer the least-effort path? See [`HOSTED.md`](HOSTED.md).

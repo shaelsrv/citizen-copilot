@@ -86,7 +86,7 @@ After the first answer, proceed in this order, skipping only what the user expli
    - Starter: Weekly News, Upcoming Decisions, Why This Matters, Economy Watch.
    - Accountability: Starter + Accountability Tracker, Follow-up Tracker, Questions to Research.
    - Systems Watch: Starter + Trend Watch, Emerging Issues, Cross Connections, Compare Over Time.
-   - Custom: choose any of the 16 task types listed below.
+   - Custom: choose any of the 17 task types listed below.
 11. For Custom, show all task types and recommended cadence:
    1. Weekly News — weekly
    2. Accountability Tracker — weekly
@@ -104,6 +104,7 @@ After the first answer, proceed in this order, skipping only what the user expli
    14. Compare Over Time — monthly
    15. Personal Civic Profile — quarterly, private/sensitive
    16. Economy Watch — monthly
+   17. Subsidy & Incentive Tracker — monthly
 12. If task 5 or 15 is selected, warn that it may store sensitive personal or political material. Ask for separate approval for each. Default to excluding it.
 13. Propose local days and times. Use these Starter defaults unless the user states others:
    - Weekly News: Sunday 6:00 PM
