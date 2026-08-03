@@ -7,7 +7,7 @@ informed without telling them what to think?
 ## Good contributions
 
 - **A new task** — a single-responsibility weekly prompt that answers a question
-  the 15 don't. Add `tasks/task-NN-<slug>.md` in the existing format (Purpose →
+  the existing tasks don't. Add `tasks/task-NN-<slug>.md` in the existing format (Purpose →
   scheduled prompt → output format), and a row in `tasks/README.md`.
 - **A hosting guide** — setup for another assistant or scheduler (a new cloud
   project type, a home-server recipe, a phone-based flow).

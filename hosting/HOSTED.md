@@ -65,8 +65,9 @@ tasks" without a real scheduler, it didn't; ask it for the copy-ready prompts in
 3. **Add the tasks you want as scheduled prompts.** Open each
    [task file](../tasks/), copy its "Scheduled prompt" block, and create a recurring
    task with it on the suggested cadence (mostly weekly). Start with **Task 1
-   (Weekly News)**, **Task 4 (Upcoming Decisions)**, and **Task 10 (Why This
-   Matters)** — add more once the rhythm feels right.
+   (Weekly News)**, **Task 4 (Upcoming Decisions)**, **Task 10 (Why This
+   Matters)**, and **Task 16 (Economy Watch, monthly)** — add more once the
+   rhythm feels right.
 
 4. **Run Task 1 once by hand** to confirm the output looks the way you want, then
    tune the permanent instructions (tone, length, which sources) and let the
@@ -98,5 +99,5 @@ tasks" without a real scheduler, it didn't; ask it for the copy-ready prompts in
 
 ---
 
-Next: the [15 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
+Next: the [16 tasks](../tasks/) and the [permanent instructions](../prompts/PERMANENT_INSTRUCTIONS.md).
 Want privacy / offline / can't-be-switched-off? See [`SELF_HOSTED.md`](SELF_HOSTED.md).
